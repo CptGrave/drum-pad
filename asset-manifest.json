@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/drum-pad/static/css/main.e371dc17.css",
+    "main.js": "/drum-pad/static/js/main.db69c47b.js",
+    "static/js/787.c419f7a1.chunk.js": "/drum-pad/static/js/787.c419f7a1.chunk.js",
+    "index.html": "/drum-pad/index.html",
+    "main.e371dc17.css.map": "/drum-pad/static/css/main.e371dc17.css.map",
+    "main.db69c47b.js.map": "/drum-pad/static/js/main.db69c47b.js.map",
+    "787.c419f7a1.chunk.js.map": "/drum-pad/static/js/787.c419f7a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e371dc17.css",
+    "static/js/main.db69c47b.js"
+  ]
+}
