@@ -4,13 +4,13 @@ import './App.css';
 const data = [
   { id: 'SNARE', letter: 'Q', src: 'http://www.myinstants.com/media/sounds/snare.mp3' },
   { id: 'BASS', letter: 'W', src: 'http://www.myinstants.com/media/sounds/bass-drum.mp3' },
-  { id: 'POP', letter: 'E', src: 'http://tipiwiki.free.fr/snd/Percussion(4e)2.wav' },
-  { id: 'TOM TOM', letter: 'A', src: 'http://www.denhaku.com/r_box/sr16/sr16tom/loelectm.wav' },
+  { id: 'PIANO', letter: 'E', src: 'http://www.myinstants.com/media/sounds/rho3.mp3' },
+  { id: '808', letter: 'A', src: 'http://www.myinstants.com/media/sounds/wm-808-63.mp3' },
   { id: 'KICK', letter: 'S', src: 'http://commondatastorage.googleapis.com/codeskulptor-assets/Collision8-Bit.ogg' },
   { id: 'VOCAL', letter: 'D', src: 'http://dl.sndup.net/mjpj/vocal.wav' },
-  { id: 'HI-HAT', letter: 'Z', src: 'http://www.denhaku.com/r_box/tr707/closed.wav' },
+  { id: 'HI-HAT', letter: 'Z', src: 'http://www.myinstants.com/media/sounds/cl-hihat.mp3' },
   { id: 'CLAP', letter: 'X', src: 'http://dl.sndup.net/dcbh/clap.wav' },
-  { id: 'CHORD', letter: 'C', src: 'http://dl.sndup.net/cnth/chord2.wav'  },
+  { id: 'PIANO2', letter: 'C', src: 'http://dl.sndup.net/cnth/chord2.wav'  },
   
 ]
 
